@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Long</h1>
 <h3 align="center">An ordinary developer</h3>
 
-- 🌱 I’m currently learning **Embedded Systems at Helsinki Metropolia UAS**
+- 🌱 I’m currently studying about **Embedded Systems at Helsinki Metropolia UAS**
 
-- 📫 How to reach me **longphamduy2002@gmail.com**
+- 📫 Reach me **longphamduy2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
