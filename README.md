@@ -5,6 +5,8 @@
 
 - 📫 Reach me **longphamduy2002@gmail.com**
 
+- <a href = "https://discord.com/oauth2/authorize?client_id=823841679257763841&permissions=2048&scope=bot">Invite my Discord bot</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/duy-long-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duy-long-pham" height="30" width="40" /></a>
