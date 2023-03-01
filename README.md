@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Long Pham
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Long Pham
 =================================================================================================================================
 
 Web Developer/Embedded Systems Engineer
@@ -6,12 +6,13 @@ Web Developer/Embedded Systems Engineer
 
 Interested in Web Development on both ends and Embedded Systems Programming, as well as Test Automation
 
-* 🌍  I'm based in Espoo
-* 🖥️  See my portfolio at [this site](http://longph.com)
-* ✉️  You can contact me at [longphamduy2002@gmail.com](mailto:longphamduy2002@gmail.com) || [longph@metropolia.fi](mailto:longph@metropolia.fi)
+* 🧑‍💻  I'm a Junior Software Developer
+* 🌍  Based in Espoo
+* 🖥️  See my personal page and get in touch [here](http://longph.com)
+* ✉️  You can contact me at either [longphamduy2002@gmail.com](mailto:longphamduy2002@gmail.com) || [longph@metropolia.fi](mailto:longph@metropolia.fi)
 * 🧠  I'm learning about Full-stack development with SvelteKit
 * 🤝  I'm open to collaborating on anything!! Hmu and I'll try to get back ASAP
-* ⚡  Looking for an intership opportunity 👀
+
 
 ### Skills
 
