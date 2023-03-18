@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/><br></p><br>
+<p align="center"><img width="75%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/><br></p><br>
 <h1 align="center">Long Pham</h1>
 
 - 🧑‍💻  I'm a Junior Software Developer
