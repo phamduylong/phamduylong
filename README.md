@@ -1,11 +1,10 @@
-<p align="center"><img width="75%" src="https://i.kym-cdn.com/photos/images/newsfeed/000/538/716/7f5.gif"/><br></p><br>
+<p align="center"><img width="75%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWQ5YzFqano3ZjZ2OWlxaXg4ZmZqMzlvNXYwZm1lbWJiMmZjM3JkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"/><br></p><br>
 <h1 align="center">Long Pham</h1>
 
-- 🧑‍💻  I'm a Junior Software Developer
+- 🧑‍💻  I'm a Software Developer
 - 🌍  Based in Espoo
 - 🖥️  See my personal page and get in touch [here](http://longph.com)
 - ✉️  You can contact me at [longphamduy2002@gmail.com](mailto:longphamduy2002@gmail.com)
-- 🧠  I'm learning about Full-stack development with SvelteKit
 - 🤝  I'm open to collaborating on anything!! Hmu and I'll try to get back ASAP
 
 
@@ -13,10 +12,7 @@
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -40,5 +36,3 @@
 <a href="http://www.github.com/phamduylong"><img src="https://github-readme-stats.vercel.app/api?username=phamduylong&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="phamduylong's GitHub stats" /></a>
 
 <a href="http://www.github.com/phamduylong"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phamduylong&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/phamduylong"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=phamduylong&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
